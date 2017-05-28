@@ -1,0 +1,35 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Het nieuwe model van New Balance: 247",
+            "id": 212,
+            "datum": "18/05/2017 • 22:45",
+            "categorieen": ["Nieuw"],
+            "samenvatting": "We hebben het 247 model van New Balance geïntroduceerd in januari begin dit jaar.",
+            "body": "<p>VWe hebben het 247 model van New Balance geïntroduceerd in januari begin dit jaar. Nu, bijna een half jaar later, breidt het bedrijf uit Boston zijn 247-lijn uit met het Sport silhouet in 2 nieuwe colorways. De 247 is het een model dat is gecreëerd als onderdeel van het bedrijf z'n evolutionaire concept 'Style of Your Life'. Een stijl waar sport en leven elkaar ontmoeten. Het cutting edge 247 design combineert vakmanschap, technologie, comfort en fit. De New Balance 247 sneaker is klaar om op elk tijdstip van de dag bij elke gelegenheid gedragen te worden.</p>",
+            "afbeeldingl": "nb-groot.jpg",
+            "afbeeldings": "nb-klein.jpg"
+        },
+        {
+            "titel": "Clae Ellington",
+            "id": 210,
+            "datum": "19/05/2017 • 08:43",
+            "categorieen": ["Oud"],
+            "samenvatting": "Geïnspireerd door klassieke schoenen maar afgewerkt met een sneakerzool, typerend voor de Clae Ellington.",
+            "body": "<p>Geïnspireerd door klassieke schoenen maar afgewerkt met een sneakerzool, typerend voor de Clae Ellington. Elk seizoen brengt Clae weer een een uitgesproken Ellington model op de markt waarvan ieder ontwerp tijdloos is, gemaakt met toewijding en vakmanschap en innovatie als kernpunten heeft.</p>",
+            "afbeeldingl": "clae-groot.jpg",
+            "afbeeldings": "clae-klein.jpg"
+        },
+        {
+            "titel": "Clarks Originals Trigenic Flex 2",
+            "id": 198,
+            "datum": "19/05/2017 • 06:06",
+            "categorieen": ["Speciaal"],
+            "samenvatting": "Geinspireerd op een 1883 Clarks Hygiëne design is hier nu de Trigenic Flex 2.",
+            "body": "<p>Geïnspireerd op een 1883 Clarks Hygiëne design is hier nu de Trigenic Flex 2. Kijkend naar het verleden om de toekomst te herdefiniëren, dat is waar het Trigenic concept van Clarks zich op focust. Een ontwerp ontwikkeld door inspiratie uit het archief van het merk. De Trigenic Flex II is een sneaker dat de precieze vorm van de voet volgt. De sneaker is gevormd door innovatieve schoeiseltechnologieën en klassieke mocassin constructies.</p>",
+            "afbeeldingl": "clarks-groot.jpg",
+            "afbeeldings": "clarks-klein.jpg"
+        }
+    ]
+}

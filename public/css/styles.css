@@ -1,0 +1,67 @@
+body {
+font-family: helvetica;
+  width: 90%;
+  margin: 25px auto;
+  line-height: 1.4em;
+  background-image:url('/img/brickwall.png');
+}
+
+section {
+  width:40%;
+  padding: 10%;
+}
+a {
+  color: black;
+  text-decoration:none;
+  font-weight: bolder;
+}
+a:hover{
+
+  font-weight: lighter;
+}
+a:visited{
+color:black;
+}
+img {
+  max-width: 100%;
+}
+
+p {
+  margin: 10px 0;
+}
+h1{
+  font-family: 'Oswald', sans-serif;
+font-weight: bold;
+font-size:3em;
+width:22%;
+margin: 0 auto;
+padding:3.5%;
+text-transform: uppercase;
+}
+
+h2 {
+  margin: 25px 0;
+}
+
+h3 {
+  display: inline;
+}
+
+nav {
+  margin: 25px 0;
+  width:106%;
+  border-bottom:5px white solid;
+  float:left;
+}
+
+nav a {
+  display: inline-block;
+  margin-right: 5px;
+}
+#container{
+  width: 90%;
+  margin:0 auto;
+  z-index: 1;
+}
+
+/*----------------------------- nieuwe dingen ----------------------------*/
